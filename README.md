@@ -1,2 +1,2 @@
 # PeriodoDoDia
- Primeiro repositorio
+ Primeiro repositorio.
